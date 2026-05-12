@@ -8,3 +8,8 @@ Keybinds can be modified easily in the `__main__.py` file. By default they are:
 | wasd | Makes the top, left, bottom, and right faces the new front face, respectively. |
 | 2qxe | Rotates the top, left, bottom, and right faces, clockwise when looking dead on at them, respectively. |
 | "QXE | 2qxe, but counter clock wise |
+
+> ![NOTE]
+> **TODO**
+> Currently the render process is pretty expensive. Reducing this expense is a priority
+> Adding inbetween frames to visually aid the transformations.
